@@ -2,7 +2,7 @@
 
 Padre that stands for Perl Application Development and Refactor Environment, is an IDE for Perl written in Perl.
 
-* The main repository of [Padre](Padre)
+* The main repository of [Padre](https://github.com/PadreIDE/Padre)
 * The source code of the [Padre](https://padre.perlide.org/) web site is in [this repo](https://github.com/PadreIDE/template.padre.perlide.org/)
 * The repo with the [generated web site](https://github.com/PadreIDE/PadreIDE.github.io)
 
